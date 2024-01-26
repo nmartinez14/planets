@@ -1,0 +1,12 @@
+warning: LF will be replaced by CRLF in mars.txt.
+The file will have its original line endings in your working directory
+[1mdiff --git a/mars.txt b/mars.txt[m
+[1mindex 0333227..cdbb6ea 100644[m
+[1m--- a/mars.txt[m
+[1m+++ b/mars.txt[m
+[36m@@ -1,3 +1,4 @@[m
+ [m
+ Cold and dry, but everything is my favorite color[m
+[31m-The two moons may be a problem for Wolfman.[m
+[32m+[m[32mThe two moons may be a problem for Wolfman[m
+[32m+[m[32mAn ill-considered change.[m
